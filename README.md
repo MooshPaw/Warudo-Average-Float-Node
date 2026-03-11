@@ -6,3 +6,5 @@ Subscribe to the [Steam Workshop item](https://steamcommunity.com/sharedfiles/fi
 
 ## Manual Installation
 Download the [AverageFloatNode.cs](https://github.com/MooshPaw/Warudo-Average-Float-Node/blob/main/AverageFloatNode.cs) on your ``Warudo\Warudo_Data\StreamingAssets\Playground`` folder
+
+*A friend told me to make it for multiple floats to be more useful, I might make it a customizable array in the future*
